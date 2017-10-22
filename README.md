@@ -1,14 +1,12 @@
 # Robot-Process-Automation-1 : Mail , Attachment and Pdf automation using UiPath community version 2107.1.6498
 
-
-[![UiPath](https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/Uipath_1.png)
- 
-
-
-[!Uipath](https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/UIPATH _2.png)
+[!Uipath](https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/Uipath_2.png)
 
 
  ### Requirement/ Use case :
+ 
+ [![UiPath](https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/Uipath_1.png)
+ 
  ```Business process handling through RPA```
 As an input we should have an email with attached PDF form (in the attachment). The robot should read email, save attachment to any folder, open PDF and read following fields from pdf:
 
