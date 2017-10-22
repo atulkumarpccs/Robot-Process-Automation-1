@@ -36,7 +36,7 @@ Then robot should open Excel and enter this data into the file (file to be creat
  
  * Clone the project from github >>``https://github.com/atulkumarpccs/Robot-Process-Automation-1 `` 
  
- * For access , please wite the mail to ``Atul Kumar``
+ * For access , please write the mail to ``Atul Kumar``
  
    <atulkumarpccs@gmail.com>
  
@@ -44,9 +44,9 @@ Then robot should open Excel and enter this data into the file (file to be creat
   
  ### Known Issues :
  
- * Set up is done for windows environment
+ * Set up is done for windows environment.
  
- * Set is not done for other platform.
+ * Set  up is not done for other platform.( UiPath tool limitation)
  
  * Some of package are installed manully in UiPath through ``UiPath Manager`` 
  
