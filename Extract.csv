@@ -1,0 +1,24 @@
+﻿Column-0,Column-1,Column-2
+" Residential
+: 1
+"," Postal
+: 3
+"," Both 
+: 2
+"
+"Residential address (cannot be a PO box) ",,
+"Street name and number ",22 George Street,
+"Suburb ",Coogee,"NSW
+2034
+State Postcode 
+"
+Australia,,
+,,
+"Is the postal address the same as residential address? ","Yes 
+: Mr
+","No u Please provide below 
+: Mrs
+"
+,,
+"Suburb ",,"State Postcode "
+,,
