@@ -43,5 +43,5 @@ Then robot should open Excel and enter this data into the file (file to be creat
  
  * Set is not done for other platform.
  
- * Some of package are installed manully in UiPath through ``UIPath manager`` 
+ * Some of package are installed manully in UiPath through ``UiPath Manager`` 
  
