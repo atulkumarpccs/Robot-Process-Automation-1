@@ -34,9 +34,12 @@ Then robot should open Excel and enter this data into the file (file to be creat
  
  * After doing `installation` , please install other package realted to mail, pdf ...as per need .
  
- * Clone the project from github >>``git clone https://github.com/atulkumarpccs/Robot-Process-Automation-1.git `` 
+ * Clone the project from github >>``https://github.com/atulkumarpccs/Robot-Process-Automation-1 `` 
  
- * Open the file in UiPath 
+ * For access , please wite the mail to ``Atul Kumar``
+   <atulkumarpccs@gmail.com>
+ 
+ * Open the Main fie  in UiPath 
   
  ### Known Issues :
  
