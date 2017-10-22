@@ -2,7 +2,7 @@
 ![Uipath](https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/Uipath_2.png)
 
 
- ### Requirement/ Use case :
+ ### Requirement/Use Case :
  
 ![UiPath](https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/Uipath_1.png)
  
@@ -21,13 +21,14 @@ Then robot should open Excel and enter this data into the file (file to be creat
 
  
  ### Setup Environment :
- 1.Install `Community adition`
-   setup on windows
+ * Install `Community adition`
+ 
+   follows the link for windows
    
    <https://www.uipath.com/freetrial-or-community>
    
    
- 2.Please refer file ``videos,forum, installtion`` if any package is missing in UiPath on windows 10. 
+ * Please refer file ``videos,forum, installtion`` if any package is missing in UiPath on windows 10. 
    
  ### Build Steps :
  
