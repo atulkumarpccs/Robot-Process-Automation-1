@@ -1,11 +1,11 @@
 # Robot-Process-Automation-1 : Mail , Attachment and Pdf automation using UiPath community version 2107.1.6498
 
-[![Uipath] (https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/Uipath_2.png)
+![Uipath](https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/Uipath_2.png)
 
 
  ### Requirement/ Use case :
  
- [![UiPath] (https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/Uipath_1.png)
+![UiPath](https://github.com/atulkumarpccs/Robot-Process-Automation-1/blob/master/Images/Uipath_1.png)
  
  
  ```Business process handling through RPA```
@@ -32,19 +32,17 @@ Then robot should open Excel and enter this data into the file (file to be creat
    
  ### Build Steps :
  
- 1.After doing `installation` , please install other package realted to mail, pdf ...as per need .
+ * After doing `installation` , please install other package realted to mail, pdf ...as per need .
  
- 2.Setup the envioronment run command >>``activate carnd-term1``
+ * Clone the project from github >>``git clone https://github.com/atulkumarpccs/Robot-Process-Automation-1.git `` 
  
- 3.Clone the project from github >>``git clone https://github.com/atulkumarpccs/Robot-Process-Automation-1.git `` 
- 
- 4.Open the file in UiPath 
+ * Open the file in UiPath 
   
  ### Known Issues :
  
- 1.Set up is done for windows environment
+ * Set up is done for windows environment
  
- 2.Set is not done for other platform.
+ * Set is not done for other platform.
  
- 3.Some of package are installed manully in UiPath through ``UIPath manager`` 
+ * Some of package are installed manully in UiPath through ``UIPath manager`` 
  
