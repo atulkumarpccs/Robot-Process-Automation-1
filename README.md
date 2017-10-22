@@ -40,7 +40,7 @@ Then robot should open Excel and enter this data into the file (file to be creat
  
    <atulkumarpccs@gmail.com>
  
- * Open the Main fie  in UiPath 
+ * Open the Main file  in UiPath 
   
  ### Known Issues :
  
