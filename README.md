@@ -21,7 +21,7 @@ Then robot should open Excel and enter this data into the file (file to be creat
 
  
  ### Setup Environment :
- * Install `Community adition`
+ * Install `Community addition`
  
    follows the link for windows
    
@@ -48,5 +48,5 @@ Then robot should open Excel and enter this data into the file (file to be creat
  
  * Set  up is not done for other platform.( UiPath tool limitation)
  
- * Some of package are installed manully in UiPath through ``UiPath Manager`` 
+ * Some of package are installed manully in UiPath through ``UiPath Package Manager`` 
  
