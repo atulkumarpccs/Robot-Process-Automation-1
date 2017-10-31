@@ -28,7 +28,7 @@ Then robot should open Excel and enter this data into the file (file to be creat
    <https://www.uipath.com/freetrial-or-community>
    
    
- * Please refer file ``videos,forum, installtion`` if any package is missing in UiPath on windows 10. 
+ * Please refer file ``videos,forum, installation`` if any package is missing in UiPath on windows 10. 
    
  ### Build Steps :
  
